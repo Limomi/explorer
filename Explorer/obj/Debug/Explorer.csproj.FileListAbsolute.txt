@@ -1,0 +1,33 @@
+D:\Аналпрограмироваие\Explorer\Explorer\bin\Debug\Explorer.exe.config
+D:\Аналпрограмироваие\Explorer\Explorer\bin\Debug\Explorer.exe
+D:\Аналпрограмироваие\Explorer\Explorer\bin\Debug\Explorer.pdb
+D:\Аналпрограмироваие\Explorer\Explorer\obj\Debug\Explorer.csproj.AssemblyReference.cache
+D:\Аналпрограмироваие\Explorer\Explorer\obj\Debug\Explorer.csproj.SuggestedBindingRedirects.cache
+D:\Аналпрограмироваие\Explorer\Explorer\obj\Debug\Explorer.explover.resources
+D:\Аналпрограмироваие\Explorer\Explorer\obj\Debug\Explorer.Properties.Resources.resources
+D:\Аналпрограмироваие\Explorer\Explorer\obj\Debug\Explorer.csproj.GenerateResource.cache
+D:\Аналпрограмироваие\Explorer\Explorer\obj\Debug\Explorer.csproj.CoreCompileInputs.cache
+D:\Аналпрограмироваие\Explorer\Explorer\obj\Debug\Explorer.exe
+D:\Аналпрограмироваие\Explorer\Explorer\obj\Debug\Explorer.pdb
+D:\Visual Studio 2010\Медведев_Семён_П-21\Explorer\Explorer\bin\Debug\Explorer.exe.config
+D:\Visual Studio 2010\Медведев_Семён_П-21\Explorer\Explorer\bin\Debug\Explorer.exe
+D:\Visual Studio 2010\Медведев_Семён_П-21\Explorer\Explorer\bin\Debug\Explorer.pdb
+D:\Visual Studio 2010\Медведев_Семён_П-21\Explorer\Explorer\obj\Debug\Explorer.csproj.AssemblyReference.cache
+D:\Visual Studio 2010\Медведев_Семён_П-21\Explorer\Explorer\obj\Debug\Explorer.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio 2010\Медведев_Семён_П-21\Explorer\Explorer\obj\Debug\Explorer.explover.resources
+D:\Visual Studio 2010\Медведев_Семён_П-21\Explorer\Explorer\obj\Debug\Explorer.Properties.Resources.resources
+D:\Visual Studio 2010\Медведев_Семён_П-21\Explorer\Explorer\obj\Debug\Explorer.csproj.GenerateResource.cache
+D:\Visual Studio 2010\Медведев_Семён_П-21\Explorer\Explorer\obj\Debug\Explorer.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2010\Медведев_Семён_П-21\Explorer\Explorer\obj\Debug\Explorer.exe
+D:\Visual Studio 2010\Медведев_Семён_П-21\Explorer\Explorer\obj\Debug\Explorer.pdb
+D:\Аналпрограмироваие\Помойка 1\Explorer\Explorer\bin\Debug\Explorer.exe.config
+D:\Аналпрограмироваие\Помойка 1\Explorer\Explorer\bin\Debug\Explorer.exe
+D:\Аналпрограмироваие\Помойка 1\Explorer\Explorer\bin\Debug\Explorer.pdb
+D:\Аналпрограмироваие\Помойка 1\Explorer\Explorer\obj\Debug\Explorer.csproj.AssemblyReference.cache
+D:\Аналпрограмироваие\Помойка 1\Explorer\Explorer\obj\Debug\Explorer.csproj.SuggestedBindingRedirects.cache
+D:\Аналпрограмироваие\Помойка 1\Explorer\Explorer\obj\Debug\Explorer.explover.resources
+D:\Аналпрограмироваие\Помойка 1\Explorer\Explorer\obj\Debug\Explorer.Properties.Resources.resources
+D:\Аналпрограмироваие\Помойка 1\Explorer\Explorer\obj\Debug\Explorer.csproj.GenerateResource.cache
+D:\Аналпрограмироваие\Помойка 1\Explorer\Explorer\obj\Debug\Explorer.csproj.CoreCompileInputs.cache
+D:\Аналпрограмироваие\Помойка 1\Explorer\Explorer\obj\Debug\Explorer.exe
+D:\Аналпрограмироваие\Помойка 1\Explorer\Explorer\obj\Debug\Explorer.pdb
